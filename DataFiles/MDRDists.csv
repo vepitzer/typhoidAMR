@@ -1,0 +1,74 @@
+"","Country","ISO3","Region","Alpha","Beta"
+"1","Afghanistan","AFG","South Asia",7.635293438,192.1740628
+"2","Angola","AGO","Western Sub-Saharan Africa",0.107449596,0.151099899
+"3","Armenia","ARM","Central Asia",1.682589286,2.264339853
+"4","Azerbaijan","AZE","Central Asia",1.682589286,2.264339853
+"5","Bangladesh","BGD","South Asia",79.27975506,184.3185149
+"6","Benin","BEN","Western & Central Sub-Saharan Africa",1.107797063,1.779861412
+"7","Bhutan","BTN","South Asia",7.635293438,192.1740628
+"8","Bolivia","BOL","Latin America",1.16975695,23.01421094
+"9","Burkina Faso","BFA","Western & Central Sub-Saharan Africa",1,30
+"10","Burundi","BDI","Eastern Sub-Saharan Africa",10.29864893,7.384731769
+"11","Cambodia","KHM","Southeast Asia",5.007350949,3.038957774
+"12","Cameroon","CMR","Western Sub-Saharan Africa",0.107449596,0.151099899
+"13","Central African Republic","CAF","Western & Central Sub-Saharan Africa",1.107797063,1.779861412
+"14","Chad","TCD","North Africa & Middle East",2.355984466,21.5667437
+"15","Comoros","COM","Eastern Sub-Saharan Africa",10.29864893,7.384731769
+"16","Congo Rep","COG","Western & Central Sub-Saharan Africa",1.107797063,1.779861412
+"17","Cote dIvoire","CIV","Western Sub-Saharan Africa",0.107449596,0.151099899
+"18","Cuba","CUB","Latin America",1.16975695,23.01421094
+"19","Dem Republic of Congo","COD","Western & Central Sub-Saharan Africa",69.76815992,122.3236299
+"20","Djibouti","DJI","Eastern Sub-Saharan Africa",10.29864893,7.384731769
+"21","DPR Korea","PRK","East Asia",1,25
+"22","Eritrea","ERI","Eastern Sub-Saharan Africa",10.29864893,7.384731769
+"23","Ethiopia","ETH","Eastern Sub-Saharan Africa",10.29864893,7.384731769
+"24","Gambia","GMB","Western Sub-Saharan Africa",0.107449596,0.151099899
+"25","Georgia","GEO","Central Asia",1.682589286,2.264339853
+"26","Ghana","GHA","Western Sub-Saharan Africa",19,11
+"27","Guinea","GIN","Western & Central Sub-Saharan Africa",1.107797063,1.779861412
+"28","Guinea Bissau","GNB","Western & Central Sub-Saharan Africa",1.107797063,1.779861412
+"29","Guyana","GUY","Latin America",1.16975695,23.01421094
+"30","Haiti","HTI","Latin America",1.16975695,23.01421094
+"31","Honduras","HND","Latin America",1.16975695,23.01421094
+"32","India","IND","South Asia",6.082979521,233.7540059
+"33","Indonesia","IDN","Southeast Asia",1,46
+"34","Kenya","KEN","Eastern Sub-Saharan Africa",40,14
+"35","Kiribati","KIR","Southeast Asia",0.642726089,1.096288255
+"36","Kyrgyz Republic","KGZ","Central Asia",1.682589286,2.264339853
+"37","Lao PDR","LAO","Southeast Asia",0.642726089,1.096288255
+"38","Lesotho","LSO","Southern Africa",2.159368136,3.061092794
+"39","Liberia","LBR","Western Sub-Saharan Africa",0.107449596,0.151099899
+"40","Madagascar","MDG","Eastern Sub-Saharan Africa",10.29864893,7.384731769
+"41","Malawi","MWI","Southern Africa",2.159368136,3.061092794
+"42","Mali","MLI","North Africa & Middle East",2.355984466,21.5667437
+"43","Mauritania","MRT","North Africa & Middle East",2.355984466,21.5667437
+"44","Moldova","MDA","Central Asia",1.682589286,2.264339853
+"45","Mongolia","MNG","Central Asia",1.682589286,2.264339853
+"46","Mozambique","MOZ","Southern Africa",2.159368136,3.061092794
+"47","Myanmar","MMR","Southeast Asia",0.642726089,1.096288255
+"48","Nepal","NPL","South Asia",4.264745037,313.4852345
+"49","Nicaragua","NIC","Latin America",1.16975695,23.01421094
+"50","Niger","NER","Western & Central Sub-Saharan Africa",1.107797063,1.779861412
+"51","Nigeria","NGA","Western & Central Sub-Saharan Africa",58,1
+"52","Pakistan","PAK","South Asia",33.4897324,33.72379273
+"53","Papua New Guinea","PNG","Southeast Asia",0.642726089,1.096288255
+"54","Republic of Sudan","SDN","Eastern Sub-Saharan Africa",10.29864893,7.384731769
+"55","Rwanda","RWA","Eastern Sub-Saharan Africa",10.29864893,7.384731769
+"56","Sao Tome e Principe","STP","Western & Central Sub-Saharan Africa",1.107797063,1.779861412
+"57","Senegal","SEN","Western Sub-Saharan Africa",0.107449596,0.151099899
+"58","Sierra Leone","SLE","Western Sub-Saharan Africa",0.107449596,0.151099899
+"59","Solomon Islands","SLB","Southeast Asia",0.642726089,1.096288255
+"60","Somalia","SOM","Eastern Sub-Saharan Africa",10.29864893,7.384731769
+"61","South Sudan","SSD","Eastern Sub-Saharan Africa",10.29864893,7.384731769
+"62","Sri Lanka","LKA","South Asia",7.635293438,192.1740628
+"63","Tajikistan","TJK","Central Asia",31,3
+"64","Tanzania","TZA","Eastern Sub-Saharan Africa",19,26
+"65","Timor Leste","TLS","Southeast Asia",0.642726089,1.096288255
+"66","Togo","TGO","Western Sub-Saharan Africa",0.107449596,0.151099899
+"67","Uganda","UGA","Eastern Sub-Saharan Africa",10.29864893,7.384731769
+"68","Ukraine","UKR","Central Asia",1.682589286,2.264339853
+"69","Uzbekistan","UZB","Central Asia",21.69057327,134.762784
+"70","Vietnam","VNM","Southeast Asia",0.642726089,1.096288255
+"71","Yemen","YEM","North Africa & Middle East",2.355984466,21.5667437
+"72","Zambia","ZMB","Southern Africa",2.159368136,3.061092794
+"73","Zimbabwe","ZWE","Southern Africa",2.159368136,3.061092794
